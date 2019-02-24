@@ -1,5 +1,5 @@
 #sudo su -
-cd /usr/local/src
+cd /root
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh > install.sh
 bash install.sh
 . ~/.nvm/nvm.sh
